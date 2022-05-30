@@ -1,0 +1,19 @@
+.bg-blue {
+    color: white;
+    background-color: #006cfa;
+    border: 1px solid #fff;
+    padding: 10px;
+    text-align: center;
+ }
+
+ .bg-green {
+    background-color: #00e165;
+    color: white;
+    border: 1px solid #006cfa;
+    padding: 10px;
+    text-align: center;
+ }
+
+ .notext [class*="col-"]{
+     height: 40px;
+ }
